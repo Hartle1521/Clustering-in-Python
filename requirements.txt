@@ -1,5 +1,5 @@
 matplotlib
 numpy==1.13.3
 pandas==0.20.3
-sklearn==0.19.1
+sklearn
 
